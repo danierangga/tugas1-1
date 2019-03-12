@@ -3,12 +3,12 @@
     <tr>
         <td>NIM</td>
         <td> : </td>
-        <td>16.01.53.0140</td>
+        <td>16.01.53.0095</td>
     </tr>
     <tr>
         <td>Nama</td>
         <td> : </td>
-        <td>OKTIO RYAN ARDIYANTO</td>
+        <td>Daniel Rangga Bima</td>
     </tr>
 </table>
 <a href="/unisbank/unisbank">Go To Akademik</a>
